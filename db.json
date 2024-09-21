@@ -1,0 +1,761 @@
+{
+    "words": [
+        {
+            "wordValue": "MANGO",
+            "wordHint": "A fruit"
+        },
+        {
+            "wordValue": "BANANA",
+            "wordHint": "A fruit"
+        },
+        {
+            "wordValue": "INDIA",
+            "wordHint": "A country"
+        }, 
+        {
+            "wordValue": "LONDON",
+            "wordHint": "A city"
+        },
+        {
+            "wordValue": "PYTHON",
+            "wordHint": "A programming language"
+        },
+        {
+            "wordValue": "ELEPHANT",
+            "wordHint": "A large animal"
+        },
+        {
+            "wordValue": "MOUNTAIN",
+            "wordHint": "A natural elevation of the earth's surface"
+        },
+        {
+            "wordValue": "OCEAN",
+            "wordHint": "A large body of salt water"
+        },
+        {
+            "wordValue": "COMPUTER",
+            "wordHint": "An electronic device"
+        },
+        {
+            "wordValue": "GUITAR",
+            "wordHint": "A musical instrument"
+        },
+        {
+            "wordValue": "SUNFLOWER",
+            "wordHint": "A type of flower"
+        },
+        {
+            "wordValue": "JUPITER",
+            "wordHint": "A planet"
+        },
+        {
+            "wordValue": "DIAMOND",
+            "wordHint": "A precious stone"
+        },
+        {
+            "wordValue": "VOLCANO",
+            "wordHint": "A geological formation"
+        },
+        {
+            "wordValue": "KANGAROO",
+            "wordHint": "An Australian animal"
+        },
+        {
+            "wordValue": "TELESCOPE",
+            "wordHint": "An astronomical instrument"
+        },
+        {
+            "wordValue": "BICYCLE",
+            "wordHint": "A two-wheeled vehicle"
+        },
+        {
+            "wordValue": "LIBRARY",
+            "wordHint": "A place with books"
+        },
+        {
+            "wordValue": "UNIVERSE",
+            "wordHint": "All of space and time"
+        },
+        {
+            "wordValue": "GALAXY",
+            "wordHint": "A system of stars"
+        },
+        {
+            "wordValue": "ASTEROID",
+            "wordHint": "A small rocky body"
+        },
+        {
+            "wordValue": "COMET",
+            "wordHint": "A celestial object"
+        },
+        {
+            "wordValue": "SATELLITE",
+            "wordHint": "An artificial body"
+        },
+        {
+            "wordValue": "ROCKET",
+            "wordHint": "A space vehicle"
+        },
+        {
+            "wordValue": "PLANET",
+            "wordHint": "A celestial body"
+        },
+        {
+            "wordValue": "METEOR",
+            "wordHint": "A space rock"
+        },
+        {
+            "wordValue": "NEBULA",
+            "wordHint": "A cloud of gas"
+        },
+        {
+            "wordValue": "ORBIT",
+            "wordHint": "A path around a star"
+        },
+        {
+            "wordValue": "GRAVITY",
+            "wordHint": "A force of attraction"
+        },
+        {
+            "wordValue": "BLACKHOLE",
+            "wordHint": "A region of space"
+        },
+        {
+            "wordValue": "SUPERNOVA",
+            "wordHint": "A stellar explosion"
+        },
+        {
+            "wordValue": "COSMOS",
+            "wordHint": "The universe"
+        },
+        {
+            "wordValue": "QUASAR",
+            "wordHint": "A distant object"
+        },
+        {
+            "wordValue": "ASTRONAUT",
+            "wordHint": "A space traveler"
+        },
+        {
+            "wordValue": "SPACESHIP",
+            "wordHint": "A spacecraft"
+        },
+        {
+            "wordValue": "MOON",
+            "wordHint": "A natural satellite"
+        },
+        {
+            "wordValue": "STAR",
+            "wordHint": "A luminous object"
+        },
+        {
+            "wordValue": "ROBOT",
+            "wordHint": "An automated machine"
+        },
+        {
+            "wordValue": "ANDROID",
+            "wordHint": "A humanoid robot"
+        },
+        {
+            "wordValue": "DRONE",
+            "wordHint": "An unmanned aerial vehicle"
+        },
+        {
+            "wordValue": "LASER",
+            "wordHint": "A device that emits light"
+        },
+        {
+            "wordValue": "MICROSCOPE",
+            "wordHint": "An instrument to see small objects"
+        },
+        {
+            "wordValue": "TELEPHONE",
+            "wordHint": "A communication device"
+        },
+        {
+            "wordValue": "INTERNET",
+            "wordHint": "A global network"
+        },
+        {
+            "wordValue": "SATURN",
+            "wordHint": "A planet with rings"
+        },
+        {
+            "wordValue": "PLUTO",
+            "wordHint": "A dwarf planet"
+        },
+        {
+            "wordValue": "NEPTUNE",
+            "wordHint": "A blue planet"
+        },
+        {
+            "wordValue": "URANUS",
+            "wordHint": "A planet with a tilted axis"
+        },
+        {
+            "wordValue": "MARS",
+            "wordHint": "The red planet"
+        },
+        {
+            "wordValue": "VENUS",
+            "wordHint": "The hottest planet"
+        },
+        {
+            "wordValue": "MERCURY",
+            "wordHint": "The smallest planet"
+        },
+        {
+            "wordValue": "EARTH",
+            "wordHint": "Our home planet"
+        },
+        {
+            "wordValue": "SUN",
+            "wordHint": "The star at the center of our solar system"
+        },
+        {
+            "wordValue": "MILKYWAY",
+            "wordHint": "Our galaxy"
+        },
+        {
+            "wordValue": "ANDROMEDA",
+            "wordHint": "A neighboring galaxy"
+        },
+        {
+            "wordValue": "SPACETIME",
+            "wordHint": "The fabric of the universe"
+        },
+        {
+            "wordValue": "BIGBANG",
+            "wordHint": "The origin of the universe"
+        },
+        {
+            "wordValue": "LIGHTYEAR",
+            "wordHint": "A unit of distance"
+        },
+        {
+            "wordValue": "ASTRONOMY",
+            "wordHint": "The study of celestial objects"
+        },
+        {
+            "wordValue": "COSMOLOGY",
+            "wordHint": "The study of the universe"
+        },
+        {
+            "wordValue": "ASTROPHYSICS",
+            "wordHint": "The physics of the universe"
+        },
+        {
+            "wordValue": "EXOPLANET",
+            "wordHint": "A planet outside our solar system"
+        },
+        {
+            "wordValue": "SPACE",
+            "wordHint": "The vast expanse beyond Earth"
+        },
+        {
+            "wordValue": "TELESCOPE",
+            "wordHint": "An optical instrument"
+        },
+        {
+            "wordValue": "ASTRONAUT",
+            "wordHint": "A space traveler"
+        },
+        {
+            "wordValue": "SPACESHIP",
+            "wordHint": "A spacecraft"
+        },
+        {
+            "wordValue": "MOON",
+            "wordHint": "A natural satellite"
+        },
+        {
+            "wordValue": "STAR",
+            "wordHint": "A luminous object"
+        },
+        {
+            "wordValue": "UNIVERSE",
+            "wordHint": "All of space"
+        },
+        {
+            "wordValue": "GALAXY",
+            "wordHint": "A system of stars"
+        },
+        {
+            "wordValue": "ASTEROID",
+            "wordHint": "A small rocky body"
+        },
+        {
+            "wordValue": "COMET",
+            "wordHint": "A celestial object"
+        },
+        {
+            "wordValue": "SATELLITE",
+            "wordHint": "An artificial body"
+        },
+        {
+            "wordValue": "ROCKET",
+            "wordHint": "A space vehicle"
+        },
+        {
+            "wordValue": "PLANET",
+            "wordHint": "A celestial body"
+        },
+        {
+            "wordValue": "METEOR",
+            "wordHint": "A space rock"
+        },
+        {
+            "wordValue": "NEBULA",
+            "wordHint": "A cloud of gas"
+        },
+        {
+            "wordValue": "ORBIT",
+            "wordHint": "A path around a star"
+        },
+        {
+            "wordValue": "GRAVITY",
+            "wordHint": "A force of attraction"
+        },
+        {
+            "wordValue": "BLACKHOLE",
+            "wordHint": "A region of space"
+        },
+        {
+            "wordValue": "SUPERNOVA",
+            "wordHint": "A stellar explosion"
+        },
+        {
+            "wordValue": "COSMOS",
+            "wordHint": "The universe"
+        },
+        {
+            "wordValue": "QUASAR",
+            "wordHint": "A distant object"
+        },
+        {
+            "wordValue": "TELESCOPE",
+            "wordHint": "An optical instrument"
+        },
+        {
+            "wordValue": "ASTRONAUT",
+            "wordHint": "A space traveler"
+        },
+        {
+            "wordValue": "SPACESHIP",
+            "wordHint": "A spacecraft"
+        },
+        {
+            "wordValue": "MOON",
+            "wordHint": "A natural satellite"
+        },
+        {
+            "wordValue": "STAR",
+            "wordHint": "A luminous object"
+        },
+        {
+            "wordValue": "UNIVERSE",
+            "wordHint": "All of space"
+        },
+        {
+            "wordValue": "GALAXY",
+            "wordHint": "A system of stars"
+        },
+        {
+            "wordValue": "ASTEROID",
+            "wordHint": "A small rocky body"
+        },
+        {
+            "wordValue": "COMET",
+            "wordHint": "A celestial object"
+        },
+        {
+            "wordValue": "SATELLITE",
+            "wordHint": "An artificial body"
+        },
+        {
+            "wordValue": "ROCKET",
+            "wordHint": "A space vehicle"
+        },
+        {
+            "wordValue": "PLANET",
+            "wordHint": "A celestial body"
+        },
+        {
+            "wordValue": "METEOR",
+            "wordHint": "A space rock"
+        },
+        {
+            "wordValue": "NEBULA",
+            "wordHint": "A cloud of gas"
+        },
+        {
+            "wordValue": "ORBIT",
+            "wordHint": "A path around a star"
+        },
+        {
+            "wordValue": "GRAVITY",
+            "wordHint": "A force of attraction"
+        },
+        {
+            "wordValue": "BLACKHOLE",
+            "wordHint": "A region of space"
+        },
+        {
+            "wordValue": "SUPERNOVA",
+            "wordHint": "A stellar explosion"
+        },
+        {
+            "wordValue": "COSMOS",
+            "wordHint": "The universe"
+        },
+        {
+            "wordValue": "QUASAR",
+            "wordHint": "A distant object"
+        },
+        {
+            "wordValue": "TELESCOPE",
+            "wordHint": "An optical instrument"
+        },
+        {
+            "wordValue": "ASTRONAUT",
+            "wordHint": "A space traveler"
+        },
+        {
+            "wordValue": "SPACESHIP",
+            "wordHint": "A spacecraft"
+        },
+        {
+            "wordValue": "MOON",
+            "wordHint": "A natural satellite"
+        },
+        {
+            "wordValue": "STAR",
+            "wordHint": "A luminous object"
+        },
+        {
+            "wordValue": "UNIVERSE",
+            "wordHint": "All of space"
+        },
+        {
+            "wordValue": "GALAXY",
+            "wordHint": "A system of stars"
+        },
+        {
+            "wordValue": "ASTEROID",
+            "wordHint": "A small rocky body"
+        },
+        {
+            "wordValue": "COMET",
+            "wordHint": "A celestial object"
+        },
+        {
+            "wordValue": "SATELLITE",
+            "wordHint": "An artificial body"
+        },
+        {
+            "wordValue": "ROCKET",
+            "wordHint": "A space vehicle"
+        },
+        {
+            "wordValue": "PLANET",
+            "wordHint": "A celestial body"
+        },
+        {
+            "wordValue": "METEOR",
+            "wordHint": "A space rock"
+        },
+        {
+            "wordValue": "NEBULA",
+            "wordHint": "A cloud of gas"
+        },
+        {
+            "wordValue": "ORBIT",
+            "wordHint": "A path around a star"
+        },
+        {
+            "wordValue": "GRAVITY",
+            "wordHint": "A force of attraction"
+        },
+        {
+            "wordValue": "BLACKHOLE",
+            "wordHint": "A region of space"
+        },
+        {
+            "wordValue": "SUPERNOVA",
+            "wordHint": "A stellar explosion"
+        },
+        {
+            "wordValue": "COSMOS",
+            "wordHint": "The universe"
+        },
+        {
+            "wordValue": "QUASAR",
+            "wordHint": "A distant object"
+        },
+        {
+            "wordValue": "TELESCOPE",
+            "wordHint": "An optical instrument"
+        },
+        {
+            "wordValue": "ASTRONAUT",
+            "wordHint": "A space traveler"
+        },
+        {
+            "wordValue": "SPACESHIP",
+            "wordHint": "A spacecraft"
+        },
+        {
+            "wordValue": "MOON",
+            "wordHint": "A natural satellite"
+        },
+        {
+            "wordValue": "STAR",
+            "wordHint": "A luminous object"
+        },
+        {
+            "wordValue": "UNIVERSE",
+            "wordHint": "All of space"
+        },
+        {
+            "wordValue": "GALAXY",
+            "wordHint": "A system of stars"
+        },
+        {
+            "wordValue": "ASTEROID",
+            "wordHint": "A small rocky body"
+        },
+        {
+            "wordValue": "COMET",
+            "wordHint": "A celestial object"
+        },
+        {
+            "wordValue": "SATELLITE",
+            "wordHint": "An artificial body"
+        },
+        {
+            "wordValue": "ROCKET",
+            "wordHint": "A space vehicle"
+        },
+        {
+            "wordValue": "PLANET",
+            "wordHint": "A celestial body"
+        },
+        {
+            "wordValue": "METEOR",
+            "wordHint": "A space rock"
+        },
+        {
+            "wordValue": "NEBULA",
+            "wordHint": "A cloud of gas"
+        },
+        {
+            "wordValue": "ORBIT",
+            "wordHint": "A path around a star"
+        },
+        {
+            "wordValue": "GRAVITY",
+            "wordHint": "A force of attraction"
+        },
+        {
+            "wordValue": "BLACKHOLE",
+            "wordHint": "A region of space"
+        },
+        {
+            "wordValue": "SUPERNOVA",
+            "wordHint": "A stellar explosion"
+        },
+        {
+            "wordValue": "COSMOS",
+            "wordHint": "The universe"
+        },
+        {
+            "wordValue": "QUASAR",
+            "wordHint": "A distant object"
+        },
+        {
+            "wordValue": "TELESCOPE",
+            "wordHint": "An optical instrument"
+        },
+        {
+            "wordValue": "ASTRONAUT",
+            "wordHint": "A space traveler"
+        },
+        {
+            "wordValue": "SPACESHIP",
+            "wordHint": "A spacecraft"
+        },
+        {
+            "wordValue": "MOON",
+            "wordHint": "A natural satellite"
+        },
+        {
+            "wordValue": "STAR",
+            "wordHint": "A luminous object"
+        },
+        {
+            "wordValue": "UNIVERSE",
+            "wordHint": "All of space"
+        },
+        {
+            "wordValue": "OXYGEN",
+            "wordHint": "A gas essential for breathing"
+        },
+        {
+            "wordValue": "HYDROGEN",
+            "wordHint": "The lightest element"
+        },
+        {
+            "wordValue": "GIRAFFE",
+            "wordHint": "A tall animal with a long neck"
+        },
+        {
+            "wordValue": "KANGAROO",
+            "wordHint": "An Australian marsupial"
+        },
+        {
+            "wordValue": "EINSTEIN",
+            "wordHint": "A famous physicist"
+        },
+        {
+            "wordValue": "NEWTON",
+            "wordHint": "A scientist known for gravity"
+        },
+        {
+            "wordValue": "BEETHOVEN",
+            "wordHint": "A famous composer"
+        },
+        {
+            "wordValue": "PICASSO",
+            "wordHint": "A famous painter"
+        },
+        {
+            "wordValue": "PYRAMID",
+            "wordHint": "An ancient Egyptian structure"
+        },
+        {
+            "wordValue": "SPHINX",
+            "wordHint": "A mythical creature with a lion's body"
+        },
+        {
+            "wordValue": "EVEREST",
+            "wordHint": "The highest mountain"
+        },
+        {
+            "wordValue": "SAHARA",
+            "wordHint": "A large desert"
+        },
+        {
+            "wordValue": "AMAZON",
+            "wordHint": "A large rainforest"
+        },
+        {
+            "wordValue": "NIAGARA",
+            "wordHint": "A famous waterfall"
+        },
+        {
+            "wordValue": "TIGER",
+            "wordHint": "A large wild cat"
+        },
+        {
+            "wordValue": "PENGUIN",
+            "wordHint": "A flightless bird"
+        },
+        {
+            "wordValue": "EAGLE",
+            "wordHint": "A bird of prey"
+        },
+        {
+            "wordValue": "DOLPHIN",
+            "wordHint": "A marine mammal"
+        },
+        {
+            "wordValue": "SHARK",
+            "wordHint": "A large predatory fish"
+        },
+        {
+            "wordValue": "CORAL",
+            "wordHint": "A marine invertebrate"
+        }
+        ,
+        {
+            "wordValue": "OCTOPUS",
+            "wordHint": "A sea creature with eight arms"
+        },
+        {
+            "wordValue": "JELLYFISH",
+            "wordHint": "A gelatinous sea creature"
+        },
+        {
+            "wordValue": "SEAHORSE",
+            "wordHint": "A small marine fish"
+        },
+        {
+            "wordValue": "WHALE",
+            "wordHint": "A large marine mammal"
+        },
+        {
+            "wordValue": "CRAB",
+            "wordHint": "A crustacean with pincers"
+        },
+        {
+            "wordValue": "LOBSTER",
+            "wordHint": "A large marine crustacean"
+        },
+        {
+            "wordValue": "SEAL",
+            "wordHint": "A marine mammal with flippers"
+        },
+        {
+            "wordValue": "WALRUS",
+            "wordHint": "A large marine mammal with tusks"
+        },
+        {
+            "wordValue": "POLARBEAR",
+            "wordHint": "A large bear found in the Arctic"
+        },
+        {
+            "wordValue": "PANDA",
+            "wordHint": "A bear native to China"
+        },
+        {
+            "wordValue": "KOALA",
+            "wordHint": "A tree-dwelling marsupial"
+        },
+        {
+            "wordValue": "LEMUR",
+            "wordHint": "A primate native to Madagascar"
+        },
+        {
+            "wordValue": "CHAMELEON",
+            "wordHint": "A lizard known for changing color"
+        },
+        {
+            "wordValue": "IGUANA",
+            "wordHint": "A large tropical lizard"
+        },
+        {
+            "wordValue": "CROCODILE",
+            "wordHint": "A large aquatic reptile"
+        },
+        {
+            "wordValue": "ALLIGATOR",
+            "wordHint": "A large reptile similar to a crocodile"
+        },
+        {
+            "wordValue": "TORTOISE",
+            "wordHint": "A land-dwelling reptile with a shell"
+        },
+        {
+            "wordValue": "TURTLE",
+            "wordHint": "A reptile with a shell that lives in water"
+        },
+        {
+            "wordValue": "FLAMINGO",
+            "wordHint": "A pink wading bird"
+        },
+        {
+            "wordValue": "PEACOCK",
+            "wordHint": "A bird known for its colorful feathers"
+        }
+    ]
+}
